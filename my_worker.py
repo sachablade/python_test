@@ -52,8 +52,6 @@ class Worker(object):
         except Exception as e:
             raise Exception, "%s" % e, sys.exc_info ( )[2]
 
-
-
     def worker(self):
         list = []
         try:
