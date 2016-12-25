@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06d5e339-7ec0-4b44-bdda-21edd63dd582" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python_test.iml" afterPath="$PROJECT_DIR$/.idea/python_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_worker.py" afterPath="$PROJECT_DIR$/my_worker.py" />
     </list>
     <ignored path="python_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -443,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1481305682149</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nivelado 20161225">
+      <created>1482667838022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1482667838022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -487,7 +491,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="carga inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="carga inicial" />
+    <MESSAGE value="nivelado 20161225" />
+    <option name="LAST_COMMIT_MESSAGE" value="nivelado 20161225" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
