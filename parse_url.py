@@ -40,6 +40,9 @@ def get_torrent_info(url):
     torrent_info['url']=url
 
     soup = BeautifulSoup(resp, "html.parser", from_encoding=resp.info().getparam('charset'))
+
+    torrent_title=soup.find_all("div", class_="page-box")[0].find('h1').text.encode('utf-8').split('/')[1]
+    torrent_info['torrent_title']=torrent_title
     for link in soup.find_all("span", class_="imp"):
         if link.text.find('Size:') != -1:
             torrent_info['size']=[link.text.split(' ')[1].encode('utf-8'),link.text.split(' ')[2].encode('utf-8')]
@@ -82,8 +85,8 @@ def get_tv_info(url):
 
     tvshow['capitulos']=cap
     if buscar_capitulos:
-        for link in soup.find_all("ul", class_="breadcrumbs")[0].findAll('a', href=url):
-            tvshow['title'] = str(link.text).strip()
+        title=soup.find_all("ul", class_="breadcrumbs")[0].findAll('a', href=True)
+        tvshow['title'] = str(title[len(title)-1].text.encode('utf-8')).strip()
 
         for link in soup.find_all("div", class_="entry-left")[0].findAll('img'):
             tvshow['picture']=link['src'].encode('utf-8')
