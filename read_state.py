@@ -19,9 +19,9 @@ for file in files:
     try:
         tvshow=load_pickle(file)
         print tvshow['title'],len(tvshow['capitulos_list']),tvshow['capitulos']
-        if tvshow['title'] == 'Billions':
-            for cap in tvshow['capitulos_list']:
-                print cap['torrent_title'],cap['torrent_link']
+        #if tvshow['title'] == 'Billions':
+        for cap in tvshow['capitulos_list']:
+            print cap['torrent_title'],cap['torrent_link']
     except:
         print 'ERRROR ' + tvshow['title']
         #os.remove(file)
