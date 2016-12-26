@@ -6,7 +6,7 @@ import urllib2
 import re
 import pandas as pd
 from my_worker import Worker
-
+from parse_url import *
 
 all_link_list = {}
 
@@ -17,8 +17,10 @@ pag_serie='http:\/\/www\.newpct1\.com\/serie.*\/##TEXT##.*\/\d.*\/pg.*'
 capitulo='http:\/\/www\.newpct1\.com\/serie\/##TEXT##.*\/capi.*'
 
 def get_links(url):
-    '''return_link_list = []
+
+    return_link_list = []
     resp = urllib2.urlopen ( url )
+    #print resp.info().getparam('charset' )
     soup = BeautifulSoup ( resp,"html.parser", from_encoding=resp.info ( ).getparam ( 'charset' ) )
     for link in soup.find_all ( 'a', href=True ):
        if any(re.findall(tag, link['href'])):
@@ -26,9 +28,11 @@ def get_links(url):
                return_link_list +=get_links(link['href'])
            else:
                if not any(re.findall(pagination, link['href'])):
-                return_link_list.append(link['href'])'''
+                return_link_list.append(link['href'])
 
-    return_link_list = ['http://www.newpct1.com/series-hd/2-chicas-sin-blanca/2359']
+    '''return_link_list = ['http://www.newpct1.com/series-hd/el-pequeño-quinquin/2018','http://www.newpct1.com/series-hd/la-extraña-pareja/2745']
+    '''
+
     return return_link_list
 
 def get_links_generic(df, url ,match, pagination):
@@ -47,11 +51,6 @@ def get_links_generic(df, url ,match, pagination):
                     return_link_list.append (link['href'])
     return return_link_list
 
-def read_newpct_page(url):
-    return_link_list = []
-    resp = urllib2.urlopen ( url )
-    soup = BeautifulSoup (resp, "html.parser", from_encoding=resp.info( ).getparam ( 'charset' ))
-
 class ExampleMultithread (Worker):
     def __init__(self,nthreads=1):
         self.nthreads=nthreads
@@ -63,7 +62,15 @@ class ExampleMultithread (Worker):
         return get_links (url )
 
     def _do(self,task):
-        resp = urllib2.urlopen ( task )
+        task = task.encode('utf8')
+        try:
+
+            tvshow = get_tv_info(task)
+            return tvshow
+        except:
+            print task
+
+        '''resp = urllib2.urlopen ( task )
         soup = BeautifulSoup ( resp, "html.parser", from_encoding=resp.info ( ).getparam ( 'charset' ))
         text= task.split("/")[4]
         self.df.loc[len(self.df)]=[task]
@@ -74,9 +81,9 @@ class ExampleMultithread (Worker):
 
         print download_links
         print str(task) +'|'+ str(len(self.df))
-        return str(task) +'|'+ str(len(self.df))
+        return str(task) +'|'+ str(len(self.df))'''
 
 
 
-c = ExampleMultithread(1)
+c = ExampleMultithread(10)
 

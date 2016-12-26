@@ -83,8 +83,9 @@ class Worker(object):
 
         for i in range ( len ( threads ) ):
             result = threads[i].get_results ( )
-            if len(result)>0:
-                print result
+            if result is not None:
+                if len(result)>0:
+                    print result
 
 
 
