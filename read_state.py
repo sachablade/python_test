@@ -20,8 +20,11 @@ for file in files:
         tvshow=load_pickle(file)
         print tvshow['title'],len(tvshow['capitulos_list']),tvshow['capitulos']
         #if tvshow['title'] == 'Billions':
+        max_name=0
+        max_link=0
         for cap in tvshow['capitulos_list']:
-            print cap['torrent_title'],cap['torrent_link']
-    except:
+            print len(cap['torrent_title']),cap['torrent_link'].__hash__()
+
+    except Exception as e:
         print 'ERRROR ' + tvshow['title']
         #os.remove(file)

@@ -41,8 +41,8 @@ def get_torrent_info(url):
 
     soup = BeautifulSoup(resp, "html.parser", from_encoding=resp.info().getparam('charset'))
 
-    torrent_title=soup.find_all("div", class_="page-box")[0].find('h1').text.encode('utf-8').split('/')[1]
-    torrent_info['torrent_title']=torrent_title
+    torrent_title=soup.find_all("div", class_="page-box")[0].find('h1').text.encode('latin1').split('/')[1]
+    torrent_info['torrent_title']=torrent_title[2:].decode('latin1')
     for link in soup.find_all("span", class_="imp"):
         if link.text.find('Size:') != -1:
             torrent_info['size']=[link.text.split(' ')[1].encode('utf-8'),link.text.split(' ')[2].encode('utf-8')]
@@ -56,7 +56,7 @@ def get_torrent_info(url):
     tab1=soup.find("div", {"id": "tab1"})
     try:
         for link in tab1.find_all("a", href=True):
-            torrent_info['torrent_link']=link['href'].encode('latin1')
+            torrent_info['torrent_link']=link['href'].decode('latin1')
     except:
         print 'Error en: ' + url
 

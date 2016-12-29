@@ -11,7 +11,7 @@ pagination_hd = 'http:\/\/www\.newpct1\.com\/series-hd\/letter\/.*'
 tag_hd='http:\/\/www\.newpct1\.com\/series-hd\/.+\/'
 
 pagination_vo='http:\/\/www\.newpct1\.com\/series-vo\/letter\/.*'
-tag_vo='http:\/\/www\.newpct1\.com\/series-vo   \/.+\/'
+tag_vo='http:\/\/www\.newpct1\.com\/series-vo\/.+\/'
 
 def get_links_hd(url):
     return_link_list = []
@@ -24,8 +24,8 @@ def get_links_hd(url):
            else:
                if not any(re.findall(pagination_hd, link['href'])):
                 return_link_list.append(link['href'])
-    '''return_link_list = ['http://www.newpct1.com/series-hd/el-pequeño-quinquin/2018','http://www.newpct1.com/series-hd/la-extraña-pareja/2745']
-    '''
+    #return_link_list = ['http://www.newpct1.com/series-hd/2-chicas-sin-blanca/2359']
+
     return return_link_list
 
 def get_links_vo(url):
@@ -49,9 +49,9 @@ class ExampleMultithread (Worker):
 
     def _retrive_task(self):
         url = 'http://www.newpct1.com/series-hd/'
-        links = get_links_hd(url)
+        #links = get_links_hd(url)
         url = 'http://www.newpct1.com/series-vo/'
-        links += get_links_vo(url)
+        links = get_links_vo(url)
         return links
 
     def _do(self,task):
@@ -59,8 +59,9 @@ class ExampleMultithread (Worker):
         try:
             tvshow = get_tv_info(task)
             return tvshow
-        except:
-            print task
+        except Exception as e:
+            print task, e.message
+
 
 
 c = ExampleMultithread(10)
