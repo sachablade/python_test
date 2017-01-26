@@ -50,6 +50,16 @@ class newpct_page( utils_json):
             self.size = 0.0
             self.unit = ''
 
+        '''try:
+            self.plot=self.bs4.soup.find("div", class_="sinopsis").text.decode('iso-8859-1').encode('utf8')
+        except Exception as e:
+            self.plot = None
+
+        try:
+            self.plot_description=self.bs4.soup.find("div", class_="descripcion_top").text.decode('iso-8859-1').encode('utf8')
+        except Exception as e:
+            self.plot_description = None'''
+
         try:
             tab1 = self.bs4.soup.find("div", {"id": "tab1"})
             for link in tab1.find_all("a", href=True):

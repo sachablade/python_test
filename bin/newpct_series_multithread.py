@@ -14,6 +14,23 @@ tag_hd='http:\/\/www\.newpct1\.com\/series-hd\/.+\/'
 pagination_vo='http:\/\/www\.newpct1\.com\/series-vo\/letter\/.*'
 tag_vo='http:\/\/www\.newpct1\.com\/series-vo\/.+\/'
 
+pagination_no_hd = 'http:\/\/www\.newpct1\.com\/series\/letter\/.*'
+tag_no_hd='http:\/\/www\.newpct1\.com\/series\/.+\/'
+
+def get_links_no_hd(url):
+    return_link_list = []
+    this_bs4=bs4(url)
+    for link in this_bs4.get_all_links():
+       if any(re.findall(tag_no_hd, link['href'])):
+           if any(re.findall(pagination_no_hd, link['href'])) and not any(re.findall(pagination_no_hd, url)):
+               return_link_list +=get_links_hd(link['href'])
+           else:
+               if not any(re.findall(pagination_no_hd, link['href'])):
+                return_link_list.append(link['href'])
+    #return_link_list = ['http://www.newpct1.com/series-hd/anatomia-de-grey/2259']
+
+    return return_link_list
+
 def get_links_hd(url):
     return_link_list = []
     this_bs4=bs4(url)
@@ -47,8 +64,10 @@ class ExampleMultithread (Worker):
         super ( ExampleMultithread, self ).__init__ ( )
 
     def _retrive_task(self):
+        url = 'http://www.newpct1.com/series/'
+        links = get_links_no_hd(url)
         url = 'http://www.newpct1.com/series-hd/'
-        links = get_links_hd(url)
+        links += get_links_hd(url)
         url = 'http://www.newpct1.com/series-vo/'
         links += get_links_vo(url)
         return list(set(links))

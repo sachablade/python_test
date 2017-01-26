@@ -19,7 +19,10 @@ class utils_json(object):
             if type(item[1]) is list:
                 listdict=[]
                 for i in item[1]:
-                    listdict.append(i.toDICT())
+                    if type(i) is str or type(i) is int or type(i) is bool or type(i) is float:
+                        listdict.append(i)
+                    else:
+                        listdict.append(i.toDICT())
                 itemsdict[item[0]] = listdict
         return itemsdict
 

@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import os
+from datetime import datetime
 from utils.a_beautiful_soup import bs4
 from utils.json_utils import utils_json
 from page_parser.newpct_page import newpct_page
@@ -27,12 +28,23 @@ class newpct_serie(utils_json):
         return pre_links
 
     def get_info(self):
+        self.update_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         try:
             self.capitulos = self.bs4.soup.find_all("div", class_="page-box")[1].findAll('strong')[0].text
             self.capitulos=int(self.capitulos.split(" ")[1])
         except Exception as e:
             self.capitulos=None
         #Obtenemos el título de la serie
+
+        '''try:
+            self.plot = self.bs4.soup.find("div", class_="sinopsis").text.encode('utf8')
+        except Exception as e:
+            self.plot = None
+
+        try:
+            self.plot_description = self.bs4.soup.find("div", class_="descripcion_top").text.encode('utf8')
+        except Exception as e:
+            self.plot_description = None'''
 
         buscar_capitulos = True
         if self.json is not None:

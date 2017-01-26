@@ -3,7 +3,9 @@
 class string_utils:
     @staticmethod
     def remove_no_printable_chars(str):
-        return str.replace('\xc2\xa0', '')
+        strReturn=str.replace('\xc2\xa0', '')
+        strReturn=strReturn.replace('\t', ' ')
+        return strReturn
 
     @staticmethod
     def repair_text(str):
