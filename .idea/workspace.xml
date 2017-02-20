@@ -2,7 +2,431 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06d5e339-7ec0-4b44-bdda-21edd63dd582" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-11419713.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-1243810.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-12560794.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-26517171.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-33329010.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-35900085.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-40852312.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-49959537.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-51405620.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/-6987113.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1000861107.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1006395064.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1012587708.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1022684992.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1023608152.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/103990893.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1041622278.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1046525322.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1051010240.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/105382410.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1055242180.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1060706770.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1065625873.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1066613545.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1070416921.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1073225544.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1073870159.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1076405932.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/108139106.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1096151158.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1098398251.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/112075241.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1126153525.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1130049123.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1131306095.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1142095086.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1145254014.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1145380707.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1145569404.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1146834592.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1152499007.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1153630914.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1157385110.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1158961344.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1158995768.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1161848346.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1164437194.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1170282370.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1177365271.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1179245065.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1183597111.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1186322911.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1186494190.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/11890667.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/11906275.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1191760855.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1196129893.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1196136030.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1201420506.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1206468257.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1207467858.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1207692098.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1207972981.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/123232566.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1235757176.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1237852664.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1239177572.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1239846578.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/12415301.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1251571197.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1257461623.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1266481662.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1275724233.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1279476450.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1282434578.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1284280920.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1286319226.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1294356315.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1300888837.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1309389880.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1309420059.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1314027233.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1314609253.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1324656260.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1328153516.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1332195260.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1337510993.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/133947185.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1341050192.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/134769062.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/134873069.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1358852730.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1367675548.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1370518037.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1374868226.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1379136250.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/137969651.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1380189247.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1380334235.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1381916068.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1384102760.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1392008832.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1397197121.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1397463461.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1402631538.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1404323819.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1423435938.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1425773914.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/142838777.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1434100687.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1457034505.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1457068178.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1468048767.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1470909200.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1481389794.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1507413938.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1516588466.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1519371357.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/152658150.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1528257967.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1532460606.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1534678793.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1538125789.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1539728602.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1540668289.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1548536424.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1551234796.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1554109659.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1554191818.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1555137452.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1560408039.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1562043914.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1565272249.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1566750741.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1578693702.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1581189676.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/158307852.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1590129815.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1599097407.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1599128751.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1604039073.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/160741636.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1616673641.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1619016711.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1625584855.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/163932865.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1665115040.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1667151880.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1667954728.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1669127195.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1679485947.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1682919094.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1684032973.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/168498428.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1687933550.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1691533716.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1701725037.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1709328939.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1713374053.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1714606091.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1718789306.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1721544886.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1723186883.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1730932936.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1731476157.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1731740296.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1733680874.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1739340729.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/17408458.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/175171173.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1752283007.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1761507534.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1768870299.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1770808209.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1776717021.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1780545424.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/178124864.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1783600282.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1783651247.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/178994982.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1790695420.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1793143473.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1793406527.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1794509958.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1799671774.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1801119882.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1806978197.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1812736653.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1816624852.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1818481623.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1820484860.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1821331550.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1823803459.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1823821260.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1826018087.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1826044133.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1833751440.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1835226008.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1836746164.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1840383184.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1845671341.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1849078190.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1851169368.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1853657577.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1855944846.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1856772256.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1865774282.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1874095686.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1876830478.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/187810366.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1879646298.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1882389360.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1889774734.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1891251942.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1898258748.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1899601671.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1905092199.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1908268628.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1909519138.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1912811318.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/192699967.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1943877048.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1951003033.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1959839950.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1961460998.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1962462068.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1963515165.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1970914421.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1982485534.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/1993507233.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2006173555.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2007204494.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2009617849.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2016153469.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2028277136.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2029144198.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2031124449.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2033775391.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2040782263.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/204713971.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2051077583.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2054547082.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2056425807.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2065102986.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2074789609.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2096574897.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/210378828.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2105125607.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2107925105.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2108567367.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2110170390.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2111501749.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2118413524.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2120841797.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2122572496.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2123228492.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/212732553.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/21328627.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/2139323766.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/215988920.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/216589444.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/218575057.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/227170409.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/232553683.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/233673093.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/238699518.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/242520213.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/243018184.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/244022566.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/250041689.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/250069875.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/251387310.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/254382666.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/256183820.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/259284873.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/266476107.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/267573485.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/271141127.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/282033313.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/282288572.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/285289595.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/286824787.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/293514449.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/298415582.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/301890827.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/303264020.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/30813160.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/310379318.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/322070295.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/327224519.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/329605217.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/331329219.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/333983382.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/344757159.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/348726828.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/36375875.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/382739952.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/385768295.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/388053809.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/392663882.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/404757101.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/410445103.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/42101062.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/424987625.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/427156212.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/441684533.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/445494374.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/447220890.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/453389461.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/455626048.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/458625442.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/460552125.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/466542746.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/466590960.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/474278491.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/475647563.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/480353698.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/484829801.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/487857838.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/491222490.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/497786265.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/501233749.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/503538659.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/510007648.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/514182192.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/516980224.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/530581431.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/532945271.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/53501294.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/544573223.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/549426452.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/551712688.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/555653591.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/566678643.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/566898845.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/572601461.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/585445329.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/59091816.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/592632636.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/602781779.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/604159994.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/609345266.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/612431043.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/621733229.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/625204669.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/628299466.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/631921449.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/63354621.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/640902663.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/654273831.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/656370510.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/657749586.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/665475203.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/672128172.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/67333208.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/675651749.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/680236836.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/681254845.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/694628873.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/695099541.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/705130421.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/715571809.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/715658905.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/723077022.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/723088059.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/725119885.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/725501093.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/733357844.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/735735285.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/735965025.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/736450256.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/743704161.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/74980025.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/761813173.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/764079436.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/782122218.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/782129595.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/783418984.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/79040264.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/805126008.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/816373118.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/817545725.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/817998900.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/828120447.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/834446252.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/83588691.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/837207944.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/840644720.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/846354931.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/851732035.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/851844044.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/857457935.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/86499679.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/867096306.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/872872792.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/876925391.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/88420850.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/884300566.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/892476449.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/897180669.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/898719293.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/899403562.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/902439081.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/906369602.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/906731081.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/913622823.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/926220821.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/940968641.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/94403118.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/944168841.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/95062953.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/951307411.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/95415812.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/955507837.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/961854283.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/962783720.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/965051493.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/965177880.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/967286708.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/969824786.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/978145777.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/985988127.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/991084695.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/992137999.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state/newpct_series/997035243.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_test.iws" />
@@ -79,7 +503,7 @@
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -205,6 +629,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="state" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="state" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newpct_series" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -647,7 +1103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1487607203720</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="nivelado 20170207">
+      <created>1487607697632</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1487607697632</updated>
+    </task>
+    <task id="LOCAL-00016" summary="nivelado 20170207">
+      <created>1487607829561</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1487607829561</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1080,7 +1550,7 @@
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
