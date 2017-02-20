@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import sys
+sys.path.append(YOUR_PATH)
 import os
 from datetime import datetime
 from utils.a_beautiful_soup import bs4

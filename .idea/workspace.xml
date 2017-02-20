@@ -2,49 +2,166 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06d5e339-7ec0-4b44-bdda-21edd63dd582" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python_test.iml" afterPath="$PROJECT_DIR$/.idea/python_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_parser/newpct_series.py" afterPath="$PROJECT_DIR$/page_parser/newpct_series.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1042647752.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1042647752.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1049740294.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1049740294.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1062159675.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1062159675.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-106483272.json" afterPath="$PROJECT_DIR$/state/newpct_series/-106483272.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1072308504.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1072308504.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1210107042.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1210107042.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1074095014.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1074095014.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1083530703.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1083530703.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1090105111.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1090105111.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1115506296.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1115506296.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1175575087.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1175575087.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1232160835.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1232160835.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1243810.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1243810.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1256915993.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1256915993.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1304681686.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1304681686.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1333043458.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1333043458.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1346696383.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1346696383.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1354717141.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1354717141.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1382595804.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1382595804.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1389974227.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1389974227.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1423157807.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1423157807.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1477512890.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1477512890.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1480349584.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1480349584.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1505527634.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1505527634.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1508729207.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1508729207.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1541402371.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1541402371.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1551063856.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1551063856.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1562456675.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1562456675.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1565067062.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1565067062.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1611812415.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1611812415.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1618045617.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1618045617.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1639105126.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1639105126.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1687925103.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1687925103.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1799108446.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1799108446.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-181591609.json" afterPath="$PROJECT_DIR$/state/newpct_series/-181591609.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1821211780.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1821211780.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1831087153.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1831087153.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1845716577.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1845716577.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1873660294.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1873660294.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1893436122.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1893436122.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1895352690.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1895352690.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1934808621.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1934808621.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1935240749.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1935240749.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1949544313.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1949544313.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1959646535.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1959646535.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1976048222.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1976048222.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-197947042.json" afterPath="$PROJECT_DIR$/state/newpct_series/-197947042.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-1987332433.json" afterPath="$PROJECT_DIR$/state/newpct_series/-1987332433.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-2002984038.json" afterPath="$PROJECT_DIR$/state/newpct_series/-2002984038.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-2068408867.json" afterPath="$PROJECT_DIR$/state/newpct_series/-2068408867.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-2007683973.json" afterPath="$PROJECT_DIR$/state/newpct_series/-2007683973.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-204628218.json" afterPath="$PROJECT_DIR$/state/newpct_series/-204628218.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-2090563846.json" afterPath="$PROJECT_DIR$/state/newpct_series/-2090563846.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-2105377757.json" afterPath="$PROJECT_DIR$/state/newpct_series/-2105377757.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-2123500726.json" afterPath="$PROJECT_DIR$/state/newpct_series/-2123500726.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-256282145.json" afterPath="$PROJECT_DIR$/state/newpct_series/-256282145.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-280318839.json" afterPath="$PROJECT_DIR$/state/newpct_series/-280318839.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-330382874.json" afterPath="$PROJECT_DIR$/state/newpct_series/-330382874.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-331221730.json" afterPath="$PROJECT_DIR$/state/newpct_series/-331221730.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-335353699.json" afterPath="$PROJECT_DIR$/state/newpct_series/-335353699.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-350472692.json" afterPath="$PROJECT_DIR$/state/newpct_series/-350472692.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-381843866.json" afterPath="$PROJECT_DIR$/state/newpct_series/-381843866.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-395496816.json" afterPath="$PROJECT_DIR$/state/newpct_series/-395496816.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-397321854.json" afterPath="$PROJECT_DIR$/state/newpct_series/-397321854.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-400144513.json" afterPath="$PROJECT_DIR$/state/newpct_series/-400144513.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-408014058.json" afterPath="$PROJECT_DIR$/state/newpct_series/-408014058.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-40852312.json" afterPath="$PROJECT_DIR$/state/newpct_series/-40852312.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-425865200.json" afterPath="$PROJECT_DIR$/state/newpct_series/-425865200.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-413649350.json" afterPath="$PROJECT_DIR$/state/newpct_series/-413649350.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-429441326.json" afterPath="$PROJECT_DIR$/state/newpct_series/-429441326.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-434314662.json" afterPath="$PROJECT_DIR$/state/newpct_series/-434314662.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-550389034.json" afterPath="$PROJECT_DIR$/state/newpct_series/-550389034.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-601126565.json" afterPath="$PROJECT_DIR$/state/newpct_series/-601126565.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-601434792.json" afterPath="$PROJECT_DIR$/state/newpct_series/-601434792.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-675600068.json" afterPath="$PROJECT_DIR$/state/newpct_series/-675600068.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-683657320.json" afterPath="$PROJECT_DIR$/state/newpct_series/-683657320.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-704849168.json" afterPath="$PROJECT_DIR$/state/newpct_series/-704849168.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-705824045.json" afterPath="$PROJECT_DIR$/state/newpct_series/-705824045.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-711898796.json" afterPath="$PROJECT_DIR$/state/newpct_series/-711898796.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-745703691.json" afterPath="$PROJECT_DIR$/state/newpct_series/-745703691.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-749439510.json" afterPath="$PROJECT_DIR$/state/newpct_series/-749439510.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-76047562.json" afterPath="$PROJECT_DIR$/state/newpct_series/-76047562.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-770946033.json" afterPath="$PROJECT_DIR$/state/newpct_series/-770946033.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-777786857.json" afterPath="$PROJECT_DIR$/state/newpct_series/-777786857.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-817660813.json" afterPath="$PROJECT_DIR$/state/newpct_series/-817660813.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-859312435.json" afterPath="$PROJECT_DIR$/state/newpct_series/-859312435.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-884666792.json" afterPath="$PROJECT_DIR$/state/newpct_series/-884666792.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-975435787.json" afterPath="$PROJECT_DIR$/state/newpct_series/-975435787.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-987575842.json" afterPath="$PROJECT_DIR$/state/newpct_series/-987575842.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/-991287617.json" afterPath="$PROJECT_DIR$/state/newpct_series/-991287617.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1000861107.json" afterPath="$PROJECT_DIR$/state/newpct_series/1000861107.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1046525322.json" afterPath="$PROJECT_DIR$/state/newpct_series/1046525322.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1051010240.json" afterPath="$PROJECT_DIR$/state/newpct_series/1051010240.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1055242180.json" afterPath="$PROJECT_DIR$/state/newpct_series/1055242180.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1098398251.json" afterPath="$PROJECT_DIR$/state/newpct_series/1098398251.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1131306095.json" afterPath="$PROJECT_DIR$/state/newpct_series/1131306095.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1142095086.json" afterPath="$PROJECT_DIR$/state/newpct_series/1142095086.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1145254014.json" afterPath="$PROJECT_DIR$/state/newpct_series/1145254014.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1158995768.json" afterPath="$PROJECT_DIR$/state/newpct_series/1158995768.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/123232566.json" afterPath="$PROJECT_DIR$/state/newpct_series/123232566.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1294356315.json" afterPath="$PROJECT_DIR$/state/newpct_series/1294356315.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/142838777.json" afterPath="$PROJECT_DIR$/state/newpct_series/142838777.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1507413938.json" afterPath="$PROJECT_DIR$/state/newpct_series/1507413938.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1528257967.json" afterPath="$PROJECT_DIR$/state/newpct_series/1528257967.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1534678793.json" afterPath="$PROJECT_DIR$/state/newpct_series/1534678793.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1565272249.json" afterPath="$PROJECT_DIR$/state/newpct_series/1565272249.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1590129815.json" afterPath="$PROJECT_DIR$/state/newpct_series/1590129815.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1665115040.json" afterPath="$PROJECT_DIR$/state/newpct_series/1665115040.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1682919094.json" afterPath="$PROJECT_DIR$/state/newpct_series/1682919094.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1684032973.json" afterPath="$PROJECT_DIR$/state/newpct_series/1684032973.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1733680874.json" afterPath="$PROJECT_DIR$/state/newpct_series/1733680874.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1770808209.json" afterPath="$PROJECT_DIR$/state/newpct_series/1770808209.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1780545424.json" afterPath="$PROJECT_DIR$/state/newpct_series/1780545424.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1793406527.json" afterPath="$PROJECT_DIR$/state/newpct_series/1793406527.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1820484860.json" afterPath="$PROJECT_DIR$/state/newpct_series/1820484860.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1821331550.json" afterPath="$PROJECT_DIR$/state/newpct_series/1821331550.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1833751440.json" afterPath="$PROJECT_DIR$/state/newpct_series/1833751440.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1840383184.json" afterPath="$PROJECT_DIR$/state/newpct_series/1840383184.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1845671341.json" afterPath="$PROJECT_DIR$/state/newpct_series/1845671341.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1882389360.json" afterPath="$PROJECT_DIR$/state/newpct_series/1882389360.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1898258748.json" afterPath="$PROJECT_DIR$/state/newpct_series/1898258748.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1943877048.json" afterPath="$PROJECT_DIR$/state/newpct_series/1943877048.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/1959839950.json" afterPath="$PROJECT_DIR$/state/newpct_series/1959839950.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/2009617849.json" afterPath="$PROJECT_DIR$/state/newpct_series/2009617849.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/2051077583.json" afterPath="$PROJECT_DIR$/state/newpct_series/2051077583.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/2054547082.json" afterPath="$PROJECT_DIR$/state/newpct_series/2054547082.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/2074789609.json" afterPath="$PROJECT_DIR$/state/newpct_series/2074789609.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/2111501749.json" afterPath="$PROJECT_DIR$/state/newpct_series/2111501749.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/215988920.json" afterPath="$PROJECT_DIR$/state/newpct_series/215988920.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/250069875.json" afterPath="$PROJECT_DIR$/state/newpct_series/250069875.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/267573485.json" afterPath="$PROJECT_DIR$/state/newpct_series/267573485.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/285289595.json" afterPath="$PROJECT_DIR$/state/newpct_series/285289595.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/293514449.json" afterPath="$PROJECT_DIR$/state/newpct_series/293514449.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/30813160.json" afterPath="$PROJECT_DIR$/state/newpct_series/30813160.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/310379318.json" afterPath="$PROJECT_DIR$/state/newpct_series/310379318.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/329605217.json" afterPath="$PROJECT_DIR$/state/newpct_series/329605217.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/348726828.json" afterPath="$PROJECT_DIR$/state/newpct_series/348726828.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/427156212.json" afterPath="$PROJECT_DIR$/state/newpct_series/427156212.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/453389461.json" afterPath="$PROJECT_DIR$/state/newpct_series/453389461.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/466590960.json" afterPath="$PROJECT_DIR$/state/newpct_series/466590960.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/501233749.json" afterPath="$PROJECT_DIR$/state/newpct_series/501233749.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/503538659.json" afterPath="$PROJECT_DIR$/state/newpct_series/503538659.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/544573223.json" afterPath="$PROJECT_DIR$/state/newpct_series/544573223.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/551712688.json" afterPath="$PROJECT_DIR$/state/newpct_series/551712688.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/566898845.json" afterPath="$PROJECT_DIR$/state/newpct_series/566898845.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/585445329.json" afterPath="$PROJECT_DIR$/state/newpct_series/585445329.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/609345266.json" afterPath="$PROJECT_DIR$/state/newpct_series/609345266.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/625204669.json" afterPath="$PROJECT_DIR$/state/newpct_series/625204669.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/654273831.json" afterPath="$PROJECT_DIR$/state/newpct_series/654273831.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/67333208.json" afterPath="$PROJECT_DIR$/state/newpct_series/67333208.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/694628873.json" afterPath="$PROJECT_DIR$/state/newpct_series/694628873.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/725119885.json" afterPath="$PROJECT_DIR$/state/newpct_series/725119885.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/725501093.json" afterPath="$PROJECT_DIR$/state/newpct_series/725501093.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/733357844.json" afterPath="$PROJECT_DIR$/state/newpct_series/733357844.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/736450256.json" afterPath="$PROJECT_DIR$/state/newpct_series/736450256.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/761813173.json" afterPath="$PROJECT_DIR$/state/newpct_series/761813173.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/817998900.json" afterPath="$PROJECT_DIR$/state/newpct_series/817998900.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/846354931.json" afterPath="$PROJECT_DIR$/state/newpct_series/846354931.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/86499679.json" afterPath="$PROJECT_DIR$/state/newpct_series/86499679.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/872872792.json" afterPath="$PROJECT_DIR$/state/newpct_series/872872792.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/884300566.json" afterPath="$PROJECT_DIR$/state/newpct_series/884300566.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state/newpct_series/892476449.json" afterPath="$PROJECT_DIR$/state/newpct_series/892476449.json" />
     </list>
     <ignored path="python_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,7 +190,7 @@
       <file leaf-file-name="newpct_series_torrent_info.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bin/newpct_series_torrent_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="357">
               <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
               <folding>
                 <element signature="e#50#64#0" expanded="true" />
@@ -85,7 +202,7 @@
       <file leaf-file-name="newpct_series_multithread.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bin/newpct_series_multithread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
+            <state relative-caret-position="1037">
               <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
               <folding>
                 <element signature="e#46#55#0" expanded="true" />
@@ -94,11 +211,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="json_utils.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="json_utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/json_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newpct_series.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page_parser/newpct_series.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -164,8 +291,8 @@
         <option value="$PROJECT_DIR$/rasp_get_torrent_info.py" />
         <option value="$PROJECT_DIR$/prueba.py" />
         <option value="$PROJECT_DIR$/page_parser/newpct_page.py" />
-        <option value="$PROJECT_DIR$/page_parser/newpct_series.py" />
         <option value="$PROJECT_DIR$/bin/newpct_series_multithread.py" />
+        <option value="$PROJECT_DIR$/page_parser/newpct_series.py" />
       </list>
     </option>
   </component>
@@ -178,7 +305,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1696" />
+    <option name="width" value="1692" />
     <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -206,8 +333,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -250,7 +377,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="state" />
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multithread" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -264,11 +395,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="state" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="newpct_series" />
+              <option name="myItemId" value="page_parser" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -676,7 +803,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486151465802</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="nivelado 20170207">
+      <created>1486451706540</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1486451706540</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -689,10 +823,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1692" height="1026" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22738239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22732769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.50479615" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -734,7 +868,8 @@
     <MESSAGE value="nivelado 20161229" />
     <MESSAGE value="nivelado 20170102" />
     <MESSAGE value="nivelado 20170126" />
-    <option name="LAST_COMMIT_MESSAGE" value="nivelado 20170126" />
+    <MESSAGE value="nivelado 20170207" />
+    <option name="LAST_COMMIT_MESSAGE" value="nivelado 20170207" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -746,17 +881,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/page_parser/newpct_series.py</url>
-          <line>89</line>
+          <line>91</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/page_parser/newpct_series.py</url>
-          <line>19</line>
+          <line>21</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/page_parser/newpct_series.py</url>
-          <line>51</line>
+          <line>53</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -791,7 +926,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/page_parser/newpct_series.py</url>
-          <line>39</line>
+          <line>41</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1053,7 +1188,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/newpct_series_torrent_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="357">
           <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           <folding>
             <element signature="e#50#64#0" expanded="true" />
@@ -1076,14 +1211,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page_parser/newpct_series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/state/newpct_series/-1088874467.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1094,7 +1221,7 @@
     <entry file="file://$PROJECT_DIR$/state/torrent_info/2505173.json" />
     <entry file="file://$PROJECT_DIR$/bin/newpct_series_multithread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
+        <state relative-caret-position="1037">
           <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
           <folding>
             <element signature="e#46#55#0" expanded="true" />
@@ -1104,8 +1231,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/json_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page_parser/newpct_series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
