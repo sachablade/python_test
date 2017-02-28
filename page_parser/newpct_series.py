@@ -14,7 +14,6 @@ class newpct_serie(utils_json):
 
         file_path = os.path.abspath(
             os.path.join(os.path.join(os.path.dirname(__file__)), os.pardir)) + '/state/newpct_series/%s.json' % self.id
-
         self.json=self.readJSONfile(file_path)
 
         self.get_info()
